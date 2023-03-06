@@ -13,7 +13,7 @@
 - Settings
 - Extensions and Themes
 - Keyboard Shortcuts
-- Keymap Extensions
+- Key-map Extensions
 - Snippets
 - Settings Sync
 - Debugging
