@@ -20,3 +20,5 @@
 > - Built in Terminal
 > - Source Control Integration
 > - Wrap Up
+
+## **[Document for VS Code](https://drive.google.com/file/d/1PTy3RaUpQ-Q5dXHRN089iTJ81tCMsWh9/view?usp=sharing)**
