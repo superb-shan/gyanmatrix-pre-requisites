@@ -22,3 +22,5 @@
 > - Wrap Up
 
 ## **[Document for VS Code](https://drive.google.com/file/d/1PTy3RaUpQ-Q5dXHRN089iTJ81tCMsWh9/view?usp=sharing)**
+
+25% of video completed
